@@ -1,2 +1,2 @@
 # KernelHackFoo
-Kernel hacking with the Foxo
+Kernel hacking with the Foxo and Snep
